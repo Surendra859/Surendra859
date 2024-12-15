@@ -3,8 +3,6 @@
  
 
 
-![github](https://github.com/Prince-1501/Prince-1501/blob/master/princekumar.jpg)
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-1501&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prince-1501&theme=github)
