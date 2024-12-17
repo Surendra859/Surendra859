@@ -4,7 +4,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
  I have completed my bachlore of engineering in Computer Science & Engineering from Govt Ujjain Engineering College,Ujjain (MP).
- I have keen intrest in software devlopment and have deep understanding of <h1>C,C++,Java</h1>. Also having good understanding of <h2>Data Structures</h2> and  have solid foundation in <h2>object-oriented programming</h2> and <h2>layered architecture</h2>.
+ I have keen intrest in software devlopment and have deep understanding of **C,C++,Java**. Also having good understanding of <b>Data Structures</b> and  have solid foundation in object-oriented programming and layered architecture.
 Currently Im seeking as entry level position to begin my career as software developer.
  
  
