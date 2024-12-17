@@ -5,12 +5,25 @@
  I have keen intrest in software devlopment and have deep understanding of <b>C,C++,Java</b>. Also having good understanding of <b>Data Structures</b> and  have solid foundation in <b>object-oriented programming</b> and <b>layered architecture</b>.<br>
 Currently Im seeking as entry level position to begin my career as software developer.
  
- 
-
-/*middle*/
-<h2> / current skills / </h2>
+ <h2>Skills</h2>
   
-- <h4> languages </h4>
+<h4>Languages</h4>
+<img src = "https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "c" />
+<img src = "https://img.shields.io/badge/C++3-E34F26?style=for-the-badge&logo=css3&logoColor=white" alt = "c++" />
+ <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+
+ <h4>Database</h4>
+  <img src = "https://img.shields.io/badge/MYSQL-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "mysql" />
+
+  <h4>Tools</h4>
+<img src = "https://img.shields.io/badge/Gradle%20photoshop-%23FF9A00.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "gradle" />
+<img src = "https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "git" />
+
+<h4>Others</h4>
+<img src = "https://img.shields.io/badge/DATA STRUCTURES%20photoshop-%2320232a.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "data structures" />
+<img src = "https://img.shields.io/badge/DATA STRUCTURES%20photoshop-%23404d59.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "data structures" />
+   
+	
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
@@ -18,9 +31,8 @@ Currently Im seeking as entry level position to begin my career as software deve
   
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-  
-- <h4> frameworks & libraries </h4>
+    
+
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
   <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
   <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
