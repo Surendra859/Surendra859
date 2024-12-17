@@ -8,9 +8,9 @@ Currently Im seeking as entry level position to begin my career as software deve
  <h2>Skills</h2>
   
    <h4> Languages </h4> 
-<d> <img src = "https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"  alt = "c"/></d>
-<d> <img src = "https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "c++" /></d>
-<d> <img src = "https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" /></d> 
+<div> <img src = "https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"  alt = "c"/></div>
+<div></div> <img src = "https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "c++" /></div>
+<div><img src = "https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" /></div> 
           
  <h4> Database </h4>
        <img src = "https://img.shields.io/badge/MYSQL-%23404d59.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB" alt = "mysql" />
@@ -18,8 +18,8 @@ Currently Im seeking as entry level position to begin my career as software deve
         <img src = "https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white" alt = "gradle" />
 	<img src = "https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" alt = "gradle" />
 <h4> Other </h4>
-       <img src = "https://img.shields.io/badge/DATA STRUCTURES-%2320232a.svg?style=for-the-badge&logo=quora%20photoshop&logoColor=white" alt = "data structures" />
-       <img src = "https://img.shields.io/badge/COMMERCIAL AWARE-%23404d59.svg?style=for-the-badge&logo=Snapchat%20photoshop&logoColor=white" alt = "commercial aware" />
+       <img src = "https://img.shields.io/badge/DATA STRUCTURES-%2320232a.svg?style=for-the-badge&logo=data_structure%20photoshop&logoColor=white" alt = "data structures" />
+       <img src = "https://img.shields.io/badge/COMMERCIAL AWARE-%23404d59.svg?style=for-the-badge&logo=commercial_aware%20photoshop&logoColor=white" alt = "commercial aware" />
    
 	
   </br></br>
