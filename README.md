@@ -24,10 +24,9 @@ Currently Im seeking as entry level position to begin my career as software deve
 <h4> Other </h4>
        <div>
 	       
-<img src = "https://img.shields.io/badge/DATA STRUCTURES-%2320232a.svg?style=for-the- 
-       badge&logo=data_structure%20photoshop&logoColor=white" alt = "data structures" />
-     <img src = "https://img.shields.io/badge/COMMERCIAL AWARE-%23404d59.svg?style=for-the- 
-    badge&logo=commercial_aware%20photoshop&logoColor=white" alt = "commercial aware" />
+<img src = "https://img.shields.io/badge/DATA STRUCTURES-%2320232a.svg?style=for-the-badge&logo=data_structure%20photoshop&logoColor=white" alt = "data structures" />
+     
+<img src = "https://img.shields.io/badge/COMMERCIAL AWARE-%23404d59.svg?style=for-the-badge&logo=commercial_aware%20photoshop&logoColor=white" alt = "commercial aware" />
    </div>
 	
   </br></br>
