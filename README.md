@@ -8,7 +8,7 @@ Currently Im seeking as entry level position to begin my career as software deve
  <h2>Skills</h2>
   
    <h4> Languages </h4>
-       <img src = "https://img.shields.io/badge/C-1572B6.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java">
+       <img src = "https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=java&logoColor=white" alt = "java">
        <img src = "https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=css3&logoColor=white" alt = "c++">
        <img src = "https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java">
        
