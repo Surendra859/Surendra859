@@ -7,21 +7,21 @@ Currently Im seeking as entry level position to begin my career as software deve
  
  <h2>Skills</h2>
   
-<h4>Languages</h4>
+<h4> Languages </h4>
 <img src = "https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "c" />
-   <img src = "https://img.shields.io/badge/C++3-E34F26?style=for-the-badge&logo=css3&logoColor=white" alt = "c++" />
+   <img src = "https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=css3&logoColor=white" alt = "c++" />
    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
 
- <h4>Database</h4>
+ <h4> Database </h4>
     <img src = "https://img.shields.io/badge/MYSQL-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "mysql" />
 
-  <h4>Tools</h4>
-       <img src = "https://img.shields.io/badge/Gradle%20photoshop-%23FF9A00.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "gradle" />
+  <h4> Tools </h4>
+       <img src = "https://img.shields.io/badge/Gradle-%23FF9A00.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "gradle" />
        <img src = "https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "git" />
 
-<h4>Other</h4>
-      <img src = "https://img.shields.io/badge/DATA STRUCTURES%20photoshop-%2320232a.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "data structures" />
-      <img src = "https://img.shields.io/badge/COMMERCIAL AWARE%20photoshop-%23404d59.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "commercial aware" />
+<h4> Other </h4>
+      <img src = "https://img.shields.io/badge/DATA STRUCTURES-%2320232a.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "data structures" />
+      <img src = "https://img.shields.io/badge/COMMERCIAL AWARE-%23404d59.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "commercial aware" />
    
 	
   </br></br>
