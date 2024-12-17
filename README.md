@@ -39,5 +39,4 @@ Currently Im seeking as entry level position to begin my career as software deve
 	
 
 </div>
-</p>
- </p>
+
