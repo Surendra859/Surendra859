@@ -1,10 +1,9 @@
 # Hello, I'm Surendra 👋
- <br><br>
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
  I have completed my bachlore of engineering in Computer Science & Engineering from Govt Ujjain Engineering College,Ujjain (MP).
- I have keen intrest in software devlopment and have deep understanding of **C,C++,Java**. Also having good understanding of <b>Data Structures</b> and  have solid foundation in object-oriented programming and layered architecture.
+ I have keen intrest in software devlopment and have deep understanding of <b></b>C,C++,Java</b>. Also having good understanding of <b>Data Structures</b> and  have solid foundation in <b></b>object-oriented programming</b> and <b></b>layered architecture</b>.
 Currently Im seeking as entry level position to begin my career as software developer.
  
  
