@@ -3,16 +3,9 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
- I have completed my BE in Computer Science & Engineering from Govt Ujjain 
-
-Engineering College,Ujjain (MP). I have keen intrest in software devlopment and 
-
-have deep understanding of C,C++,Java. I have good understanding of Data Structures 
-
-and  have solid foundation in object-oriented programming and layered architecture.
-Currently Im seeking as entry level position to begin my career as software 
-
-developer.
+ I have completed my bachlore of engineering in Computer Science & Engineering from Govt Ujjain Engineering College,Ujjain (MP).
+ I have keen intrest in software devlopment and have deep understanding of <h1>C,C++,Java</h1>. Also having good understanding of <h2>Data Structures</h2> and  have solid foundation in <h2>object-oriented programming</h2> and <h2>layered architecture</h2>.
+Currently Im seeking as entry level position to begin my career as software developer.
  
  
 
