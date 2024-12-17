@@ -58,13 +58,9 @@ I enjoy working with Nodejs, REST API's, Mongodb and much more.
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/surendra">
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
-        <a style="margin-left: 10px;" target="_blank"          
- <a href="mailto:sgour859@gmail.com">
-			<img src="https://img.icons8.com/doodle/1x/gmail--v2.png" 
-
-></a>
-		<a style="margin-left: 5px;" target="_blank" 
-
+        <a style="margin-left: 10px;" target="_blank" href="mailto:sgour859@gmail.com">
+			<img src="https://img.icons8.com/doodle/1x/gmail--v2.png"></a>
+	
 
 </div>
 
