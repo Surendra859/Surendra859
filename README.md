@@ -17,7 +17,7 @@ Currently Im seeking as entry level position to begin my career as software deve
 
    <h4> Tools </h4>
         <img src = "https://img.shields.io/badge/Gradle-%23FF9A00.svg?style=for-the-badge&logo=gradle%20photoshop&logoColor=white" alt = "gradle" />
-	<img src = "https://img.shields.io/badge/Gradle-%E34F26.svg?style=for-the-badge&logo=gradle%20photoshop&logoColor=white" alt = "gradle" />
+	<img src = "https://img.shields.io/badge/GIT-%23F24E1E.svg?style=for-the-badge&logo=gradle%20photoshop&logoColor=white" alt = "gradle" />
 
 	 
    <h4> Other </h4>
