@@ -9,9 +9,9 @@ Currently Im seeking as entry level position to begin my career as software deve
   
    <h4> Languages </h4>
    
-<d><img src = "https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=java&logoColor=white" width="40" height="40" alt = "c" /> </d>
+<d><img src = "https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=java&logoColor=white"  alt = "c" /> </d>
 <d><img src = "https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=css3&logoColor=white" width="40" height="40" alt = "c++" /></d>
-<d><img src = "https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="40" height="40" alt = "java" /></d> 
+<d><img src = "https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" /></d> 
 <d><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" width="40" height="40"></d>        
        
         
