@@ -16,8 +16,9 @@ Currently Im seeking as entry level position to begin my career as software deve
        <img src = "https://img.shields.io/badge/MYSQL-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "mysql" />
 
    <h4> Tools </h4>
-        <img src = "https://img.shields.io/badge/Gradle-%23FF9A00.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "gradle" />
-        <img src = "https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "git" />
+        <img src = "https://img.shields.io/badge/Gradle-%23FF9A00.svg?style=for-the-badge&logo=gradle%20photoshop&logoColor=white" alt = "gradle" />
+ 
+	<img src = "https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
 
    <h4> Other </h4>
        <img src = "https://img.shields.io/badge/DATA STRUCTURES-%2320232a.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "data structures" />
